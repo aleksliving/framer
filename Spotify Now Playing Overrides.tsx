@@ -18,7 +18,7 @@ const useSpotifyTrack = () => {
                 {
                     headers: {
                         Authorization:
-                            "Bearer "API_TOKEN_HERE",
+                            "Bearer API_TOKEN_HERE",
                     },
                 }
             )
