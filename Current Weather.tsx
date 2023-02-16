@@ -86,7 +86,7 @@ const useWeather = () => {
     return weather
 }
 
-export function Temerature(): Override {
+export function Temperature(): Override {
     const weather = useWeather()
 
     return weather
